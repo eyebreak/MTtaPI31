@@ -1,5 +1,5 @@
 class Lab1 {
-  public static void main (Streing[] args) {
-    System.out.printIn("its works");
+  public static void main (String[] args) {
+    System.out.printIn("it's works");
   }
 }
